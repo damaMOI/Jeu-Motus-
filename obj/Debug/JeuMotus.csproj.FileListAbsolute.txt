@@ -1,0 +1,8 @@
+C:\Users\Dama\Documents\C#\JeuMotus\bin\Debug\Mots.txt
+C:\Users\Dama\Documents\C#\JeuMotus\bin\Debug\JeuMotus.exe.config
+C:\Users\Dama\Documents\C#\JeuMotus\bin\Debug\JeuMotus.exe
+C:\Users\Dama\Documents\C#\JeuMotus\bin\Debug\JeuMotus.pdb
+C:\Users\Dama\Documents\C#\JeuMotus\obj\Debug\JeuMotus.csproj.AssemblyReference.cache
+C:\Users\Dama\Documents\C#\JeuMotus\obj\Debug\JeuMotus.csproj.CoreCompileInputs.cache
+C:\Users\Dama\Documents\C#\JeuMotus\obj\Debug\JeuMotus.exe
+C:\Users\Dama\Documents\C#\JeuMotus\obj\Debug\JeuMotus.pdb
